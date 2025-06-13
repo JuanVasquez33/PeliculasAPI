@@ -48,6 +48,7 @@
         "tags": [
           "Generos"
         ],
+        "operationId": "ObtenerGeneroPorId",
         "parameters": [
           {
             "name": "id",

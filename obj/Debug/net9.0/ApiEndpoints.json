@@ -71,7 +71,8 @@
         ],
         "StatusCode": 200
       }
-    ]
+    ],
+    "EndpointName": "ObtenerGeneroPorId"
   },
   {
     "ContainingType": "PeliculasAPI.Controllers.GenerosController",
