@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\migrations\\20250615041731_tablaactores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:migrations\\20250615041731_tablaactores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\utilidades\\automaperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:utilidades\\automaperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\dtos\\actorcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:dtos\\actorcreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\migrations\\20250612235753_tablageneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:migrations\\20250612235753_tablageneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\servicios\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:servicios\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\servicios\\almacenadorarchivosazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:servicios\\almacenadorarchivosazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +50,10 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
@@ -41,69 +61,117 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenerosController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\GenerosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GenerosController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\GenerosController.cs",
-              "RelativeToolTip": "Controllers\\GenerosController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Title": "20250615041731_TablaActores.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Migrations\\20250615041731_TablaActores.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250615041731_TablaActores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Migrations\\20250615041731_TablaActores.cs",
+              "RelativeToolTip": "Migrations\\20250615041731_TablaActores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T00:04:22.352Z",
+              "WhenOpened": "2025-06-15T04:17:31.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:38:06.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250612235753_TablaGeneros.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Migrations\\20250612235753_TablaGeneros.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250612235753_TablaGeneros.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Migrations\\20250612235753_TablaGeneros.cs",
-              "RelativeToolTip": "Migrations\\20250612235753_TablaGeneros.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T23:57:53.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T03:13:43.585Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ActorCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\DTOs\\ActorCreacionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ActorCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\DTOs\\ActorCreacionDTO.cs",
+              "RelativeToolTip": "DTOs\\ActorCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:47:07.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T01:53:58.385Z"
+              "WhenOpened": "2025-06-15T03:40:48.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlmacenadorArchivosAzure.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\AlmacenadorArchivosAzure.cs",
+              "RelativeDocumentMoniker": "Servicios\\AlmacenadorArchivosAzure.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\AlmacenadorArchivosAzure.cs",
+              "RelativeToolTip": "Servicios\\AlmacenadorArchivosAzure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:33:42.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T03:32:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlmacenadorArchivos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\IAlmacenadorArchivos.cs",
+              "RelativeDocumentMoniker": "Servicios\\IAlmacenadorArchivos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\IAlmacenadorArchivos.cs",
+              "RelativeToolTip": "Servicios\\IAlmacenadorArchivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:09:20.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenerosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "Controllers\\GenerosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T03:00:13.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\ActoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActoresController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\ActoresController.cs",
+              "RelativeToolTip": "Controllers\\ActoresController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:52:44.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMaperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Utilidades\\AutoMaperProfiles.cs",
+              "RelativeDocumentMoniker": "Utilidades\\AutoMaperProfiles.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Utilidades\\AutoMaperProfiles.cs",
+              "RelativeToolTip": "Utilidades\\AutoMaperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:35:27.337Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
