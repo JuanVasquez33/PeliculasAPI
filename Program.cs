@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using PeliculasAPI;
+using PeliculasAPI.Servicios;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,8 @@ builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddDbContext<ApplicationDbContext>(opciones => 
     opciones.UseSqlServer("name=DefaultConnection"));
@@ -24,9 +27,12 @@ builder.Services.AddCors(opciones =>
 {
     opciones.AddDefaultPolicy(opcionesCORS =>
     {
-        opcionesCORS.WithOrigins(origenesPermitidos).AllowAnyMethod().AllowAnyHeader();
+        opcionesCORS.WithOrigins(origenesPermitidos).AllowAnyMethod().AllowAnyHeader()
+        .WithExposedHeaders("cantidad-total-registros");
     });
 });
+
+builder.Services.AddTransient<IAlmacenadorArchivos, AlmacenadorArchivosAzure>();
 
 var app = builder.Build();
 
