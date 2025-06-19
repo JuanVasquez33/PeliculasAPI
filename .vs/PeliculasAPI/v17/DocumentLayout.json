@@ -7,16 +7,32 @@
       "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:controllers\\actorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\utilidades\\automaperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:utilidades\\automaperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\servicios\\almacenadorarchivosazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:servicios\\almacenadorarchivosazure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\servicios\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:servicios\\ialmacenadorarchivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\dtos\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:dtos\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:dtos\\actordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|c:\\users\\usuario\\desktop\\juan\\curso_asp.net_angular\\curso\\peliculasapi\\entidades\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D44F300-2FE6-4399-A02E-8C24D360E9F2}|PeliculasAPI.csproj|solutionrelative:entidades\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\DTOs\\GeneroDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\GeneroDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\DTOs\\GeneroDTO.cs",
+              "RelativeToolTip": "DTOs\\GeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:51:53.01Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -41,46 +70,29 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\CustomBaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomBaseController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\CustomBaseController.cs",
+              "RelativeToolTip": "Controllers\\CustomBaseController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T01:39:42.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AutoMaperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Utilidades\\AutoMaperProfiles.cs",
-              "RelativeDocumentMoniker": "Utilidades\\AutoMaperProfiles.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Utilidades\\AutoMaperProfiles.cs",
-              "RelativeToolTip": "Utilidades\\AutoMaperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Title": "GenerosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenerosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\GenerosController.cs",
+              "RelativeToolTip": "Controllers\\GenerosController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T21:17:56.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAlmacenadorArchivos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\IAlmacenadorArchivos.cs",
-              "RelativeDocumentMoniker": "Servicios\\IAlmacenadorArchivos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\IAlmacenadorArchivos.cs",
-              "RelativeToolTip": "Servicios\\IAlmacenadorArchivos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:03:11.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AlmacenadorArchivosAzure.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\AlmacenadorArchivosAzure.cs",
-              "RelativeDocumentMoniker": "Servicios\\AlmacenadorArchivosAzure.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Servicios\\AlmacenadorArchivosAzure.cs",
-              "RelativeToolTip": "Servicios\\AlmacenadorArchivosAzure.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:02:41.144Z",
+              "WhenOpened": "2025-06-19T02:04:31.322Z",
               "EditorCaption": ""
             },
             {
@@ -91,10 +103,66 @@
               "RelativeDocumentMoniker": "Controllers\\ActoresController.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Controllers\\ActoresController.cs",
               "RelativeToolTip": "Controllers\\ActoresController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAQwGYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T01:52:44.432Z",
+              "WhenOpened": "2025-06-19T02:14:51.957Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\DTOs\\ActorDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ActorDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\DTOs\\ActorDTO.cs",
+              "RelativeToolTip": "DTOs\\ActorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:51:39.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Entidades\\Actor.cs",
+              "RelativeDocumentMoniker": "Entidades\\Actor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Entidades\\Actor.cs",
+              "RelativeToolTip": "Entidades\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:50:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Entidades\\Genero.cs",
+              "RelativeDocumentMoniker": "Entidades\\Genero.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Entidades\\Genero.cs",
+              "RelativeToolTip": "Entidades\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:50:10.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IId.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Entidades\\IId.cs",
+              "RelativeDocumentMoniker": "Entidades\\IId.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\JUAN\\curso_asp.net_angular\\curso\\PeliculasAPI\\Entidades\\IId.cs",
+              "RelativeToolTip": "Entidades\\IId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T02:49:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
